@@ -19,7 +19,7 @@ GEO-CODE
     
 USUARIOS DE INGRESO 
 ***
- "Usuario para buscar una farmacia"       "Usuario para ver el CRUD de farmacia"
+ *"Usuario para buscar una farmacia"       *"Usuario para ver el CRUD de farmacia"
     *nombre : cliente                         *nombre : admin
     *clave : cliente                          *clave : admin
 
