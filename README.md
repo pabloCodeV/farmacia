@@ -19,13 +19,7 @@ GEO-CODE
     
 USUARIOS DE INGRESO 
 ***
-    *nombre : cliente
-    *clave : cliente
-    
-   Este usuario permite entrar a la busqueda de la farmacia segun su Direccion
-   
-   
-   *nombre : admin
-   *clave : admin
-   
-   Este usuario permite ingresar al CRUD de Farmacias
+ "Usuario para buscar una farmacia"       "Usuario para ver el CRUD de farmacia"
+    *nombre : cliente                         *nombre : admin
+    *clave : cliente                          *clave : admin
+
