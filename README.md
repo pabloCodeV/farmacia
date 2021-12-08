@@ -18,10 +18,10 @@ GEO-CODE
     
 USUARIOS DE INGRESO (paciente)
 ***
-    *nombre : cliente                         
-    *clave : cliente
+*nombre : cliente                         
+*clave : cliente
 
 USUARIOS DE INGRESO (Admin)
 ***
-   *nombre : admin
-   *clave : admin
+*nombre : admin
+*clave : admin
