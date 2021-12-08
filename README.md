@@ -18,7 +18,7 @@
     
 ### RUTA DE INGRESO DEL PROYECTO   
 ***
-   http://<port>/farmacia/web/
+   http://"<puerto>"/farmacia/web/
 ***    
 
 ### USUARIOS DE INGRESO (paciente)
